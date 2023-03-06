@@ -4,4 +4,3 @@
 *.swift -linguist-detectable
 
 # Detect
-*.dart linguist-detectable
