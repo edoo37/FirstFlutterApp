@@ -2,6 +2,6 @@
 *.cc -linguist-detectable
 *.cpp -linguist-detectable
 *.swift -linguist-detectable
-*.kotlin -linguist-detectable
+*.dart -linguist-detectable
 
 # Detect
