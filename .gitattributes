@@ -1,7 +1,1 @@
-# Do not detect
-*.cc -linguist-detectable
-*.cpp -linguist-detectable
-*.swift -linguist-detectable
-*.dart -linguist-detectable
-
-# Detect
+*        text=auto
