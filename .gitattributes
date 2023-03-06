@@ -4,4 +4,4 @@
 *.dart -linguist-detectable
 
 # Detect
-*.dart linguist-detectable
+
